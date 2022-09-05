@@ -1,3 +1,6 @@
+/*2 - Faça um algoritmo que receba um valor que foi depositado e exiba o valor com rendimento após um mês. considere fixo o juro da poupança em 0,70% a.m .
+ * 
+ */
 programa
 {
 
@@ -18,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 313; 
+ * @POSICAO-CURSOR = 175; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

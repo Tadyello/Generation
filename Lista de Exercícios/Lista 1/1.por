@@ -1,3 +1,6 @@
+/*1 - Faça um Algoritmo que receba o preço de custo de um produto e mostre o valor da venda. sabe-se que o preço de custo receberá um acréscimo de acordo com um percentual informado pelo usuário.
+ * 
+ */
 programa
 {
 
@@ -19,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 356; 
+ * @POSICAO-CURSOR = 560; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
